@@ -1,4 +1,4 @@
-[Index](https://github.com/villalba189/Conf.PA/blob/master/Index.md)
+[Index](https://villalba189.github.io/Conf.PA/Index)
 
 # Actividad 1
 
