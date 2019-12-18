@@ -1,3 +1,3 @@
 # Index
 
-1. [Actividad 1](https://github.com/villalba189/Conf.PA/blob/master/Actividad1.md)
+1. [Actividad 1](https://villalba189.github.io/Conf.PA/Actividad1)
