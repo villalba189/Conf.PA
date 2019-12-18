@@ -25,12 +25,32 @@ Es para activar el modo wifi y comparta el internet. Lo Activamos
 Sirve para que se vea el nombre (SSID) en los dispositivos. Lo Activamos
 
 
-## 4.
+## 4. Canales
 
-## 5.
+En United States hay como máximo 11 canales , donde colocaremos nuestro Wi-Fi, lo colocaremos en Auto, para que el solo encuentre el canal con menos interferencias.
 
-## 6.
 
-## 7.
 
-## 8.
+## 5. Cambiar region
+
+Aquí es donde diremos en qué país nos encontramos, ponemos Spain.
+
+
+
+## 6. Canales EU
+
+En España hay como máximo 13 canales como en la mayoria de paises de Europa , donde podemos colocar nuestro Wi-Fi, lo colocaremos en Auto, para que el solo encuentre el canal con menos interferencias.
+
+
+
+## 7. Banda Ancha
+
+Aquí elegiremos si ponerlo en 1 canal (20MHz) , en 2 (40 MHz) o en automático (Auto) que es el que elegiremos .
+
+
+
+## 8. Estandares
+
+Elegiremos los estándares 11 bgn mixed.
+Solo se podran entrar los dispositivos con esos mismos  estándares.
+
