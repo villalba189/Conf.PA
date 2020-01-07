@@ -1,10 +1,10 @@
 [Index](https://villalba189.github.io/Conf.PA/Index)
 
-# Actividad 1
+# Configuracion de un Router
 
 ## 1. Entrar en nuestro Router y Logearnos
 
-Tenemos que meter en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del ruter.
+Tenemos que meternos en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del ruter.
 
 A continuación pondremos la cuenta de admin y contraseña admin.
 
