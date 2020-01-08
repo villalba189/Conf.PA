@@ -43,7 +43,7 @@ En España hay como máximo 13 canales como en la mayoria de paises de Europa , 
 
 ## 6. Otros canales
 
-En United States hay como máximo 11 canales , donde colocaremos nuestro Wi-Fi, lo colocaremos en **Auto**, para que el solo encuentre el canal con menos interferencias.
+En United States hay como máximo 11 canales a diferencia EU.
 
 ![Canales 11](./Imagenes/3.png)
 
