@@ -1,6 +1,6 @@
 [Index](https://villalba189.github.io/Conf.PA/Index)
 
-# Configuracion de un Router
+# Configuracion de un Punto de Acceso
 
 ## 1. Entrar en nuestro Router y Logearnos
 
@@ -29,24 +29,23 @@ Es para activar el modo wifi y comparta el internet. Lo Activamos
 ![Ver SSID](./Imagenes/0.3.png)
 Sirve para que se vea el nombre (SSID) en los dispositivos. Lo Activamos
 
-
-## 4. Canales
-
-En United States hay como máximo 11 canales , donde colocaremos nuestro Wi-Fi, lo colocaremos en **Auto**, para que el solo encuentre el canal con menos interferencias.
-
-![Canales 11](./Imagenes/3.png)
-
-## 5. Cambiar region
+## 4. Cambiar region
 
 Aquí es donde diremos en qué país nos encontramos, ponemos Spain.
 
 ![Region Spain](./Imagenes/4.png)
 
-## 6. Canales EU
+## 5. Canales EU
 
 En España hay como máximo 13 canales como en la mayoria de paises de Europa , donde podemos colocar nuestro Wi-Fi, lo colocaremos en **Auto**, para que el solo encuentre el canal con menos interferencias.
 
 ![Canales Europa](./Imagenes/5.png)
+
+## 6. Otros canales
+
+En United States hay como máximo 11 canales , donde colocaremos nuestro Wi-Fi, lo colocaremos en **Auto**, para que el solo encuentre el canal con menos interferencias.
+
+![Canales 11](./Imagenes/3.png)
 
 ## 7. Banda Ancha
 
