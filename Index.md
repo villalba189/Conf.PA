@@ -1,3 +1,3 @@
 # Index
 
-1. [Actividad 1](https://villalba189.github.io/Conf.PA/Actividad1)
+1. [Configuración de un Punto de Acceso](https://villalba189.github.io/Conf.PA/Conf_PuntoDeAcceso)
