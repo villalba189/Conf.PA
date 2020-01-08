@@ -31,7 +31,7 @@ Sirve para que se vea el nombre (SSID) en los dispositivos. Lo Activamos
 
 ## 4. Cambiar region
 
-Aquí es donde diremos en qué país nos encontramos, ponemos Spain.
+Aquí es donde diremos en qué país nos encontramos, ponemos **Spain**.
 
 ![Region Spain](./Imagenes/4.png)
 
@@ -43,7 +43,7 @@ En España hay como máximo 13 canales como en la mayoria de paises de Europa , 
 
 ## 6. Otros canales
 
-En United States hay como máximo 11 canales a diferencia EU.
+En United States hay como máximo **11** canales a diferencia EU.
 
 ![Canales 11](./Imagenes/3.png)
 
