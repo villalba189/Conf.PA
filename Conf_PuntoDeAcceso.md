@@ -2,6 +2,8 @@
 
 # Configuracion de un Punto de Acceso
 
+Si quereis probar con otro router podeis hacerlo con este [simulador](https://www.tp-link.com/es/support/emulator/)
+
 ## 1. Entrar en nuestro Router y Logearnos
 
 Tenemos que meternos en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del ruter.
