@@ -4,9 +4,9 @@
 
 Si quereis probar con otro router podeis hacerlo con este [simulador](https://www.tp-link.com/es/support/emulator/)
 
-## 1. Entrar en nuestro Router y Logearnos
+## 1. Entrar en nuestro Punto de Acceso y Logearnos
 
-Tenemos que meternos en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del ruter.
+Tenemos que meternos en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del Punto de acceso.
 
 A continuación pondremos la cuenta de admin y contraseña admin.
 
