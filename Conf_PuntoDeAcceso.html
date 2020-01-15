@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+
+<title>Uso de metodologías ágiles - Publicar tu web usando Github</title>
+<meta name="author" content="(Pepe Villalba)"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/css/reveal.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/css/theme/white.min.css" id="theme">
+	
+<script>
+	var link = document.createElement( 'link' );
+	link.rel = 'stylesheet';
+	link.type = 'text/css';
+	link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+	document.getElementsByTagName( 'head' )[0].appendChild( link );
+	</script>
+
+
+</head>
+
+	<body>
+<div class="reveal">
+	<div class="slides">
+		<section data-markdown>
+			<textarea data-template>
+				# Configuracion de un Punto de Acceso
+
+Si quereis probar con otro router podeis hacerlo con este [simulador](https://www.tp-link.com/es/support/emulator/)
+
+			</textarea>
+		</section>
+		<section>
+			<section data-markdown>
+				<textarea data-template>
+					### Creamos el repositorio
+					Pulsamos sobre el icono [**+**] de la esquina superior derecha.
+
+					![](./imagenes/repositorio1.png)
+				</textarea>
+			</section>
+			<section data-markdown>
+				<textarea data-template>
+					## 1. Entrar en nuestro Router y Logearnos
+
+Tenemos que meternos en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del ruter.
+
+A continuación pondremos la cuenta de admin y contraseña admin.
+				</textarea>
+			</section>
+		</section>
+		<section>
+			<section data-markdown>
+				<textarea data-template>
+					### Nuestra primera página
+					
+					Lo más habitual es crear un documento *index.html* que contenga la página inicial
+					de nuestra web. Sin embargo por facilidad y rapidez, utilizaremos el archivo
+					README.md y el lenguaje [markdown](https://guides.github.com/features/mastering-markdown) para crear 
+					nuestra primera página.
+				</textarea>
+			</section>
+			<section data-markdown>
+				<textarea data-template>
+					En la página principal del repositorio, pulsamos en el enlace `[settings]`.					
+					Esto nos da acceso a la página de configuración del repositorio.
+					
+					![](./imagenes/sitioweb1.png)
+				</textarea>
+			</section>
+			<section data-markdown>
+				<textarea data-template>
+					Bajamos hasta el apartado GitHub Pages, y en el subapartado Source tenemos un botón para seleccionar la rama/carpeta
+					donde se ubican los documentos.	Cambiamos `none` por `master branch` y pulsamos en el botón `[Save]`
+					para activar el generador de páginas.
+					
+					![](./imagenes/sitioweb2.png)
+				</textarea>
+			</section>
+			<section data-markdown>
+				<textarea data-template>
+					Pulsando sobre el botón `[Choose Theme] podemos seleccionar facilmente una plantilla web
+					para aplicar a nuestra página.
+					
+					![](./imagenes/sitioweb3.png)
+
+				</textarea>
+			</section>
+		</section>
+		<section data-markdown>
+			<textarea data-template>
+				# ¿PREGUNTAS?
+			</textarea>
+		</section>
+	</div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/js/reveal.min.js"></script>
+<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/plugin/markdown/marked.min.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/plugin/markdown/markdown.min.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/plugin/highlight/highlight.min.js', async: true },
+					{ src: 'https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/plugin/search/search.min.js', async: true },
+					{ src: 'https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/plugin/zoom-js/zoom.min.js', async: true },
+					{ src: 'https://cdn.jsdelivr.net/npm/reveal.js@3.8.0/plugin/notes/notes.min.js', async: true }
+				]
+			});
+
+		</script>
+
+
+</body>
+</html>
