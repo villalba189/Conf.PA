@@ -66,5 +66,6 @@ que elegira el mas adecuado para donde nos encontremos.
 ## 7. Estandares
 
 Yo he puesto estos estandares porque son los mas adecuados para mi **11 bgn mixed**.
-Si quereis ver porque he elgido estos lo puedes ver 
+Si quereis ver porque he elgido estos lo puedes ver [aqui](https://villalba189.github.io/Estandares/)
+
 ![Estandard mixed](./Imagenes/7.png)
