@@ -1,18 +1,17 @@
-[Index](https://villalba189.github.io/Conf.PA/Index)
-
 # Configuracion de un Punto de Acceso
-
-Si quereis probar con otro router podeis hacerlo con este [simulador](https://www.tp-link.com/es/support/emulator/)
 
 ## 1. Entrar en nuestro Punto de Acceso y Logearnos
 
-Tenemos que meternos en nuestro buscador y poner **192.168.1.1**, asi entraremos a la pagina del Punto de acceso.
+Para poder saber donde tenemos que entrar ahce falta mirar debajo de nuestro punto de acceso
+y ver donde pone **Ip adress** que es lo que tendremos que poner en nuestro buscador.
+Luego tendremos que poner el username y la contraseña que tambien encontraremos debajo.
+(Tendremos que estar en todo momento conectado al router ya sea por cable o por wi-fi)
 
-A continuación pondremos la cuenta de admin y contraseña admin.
+!imagen
 
 ## 2. Entramos en los ajustes de Wi-Fi
 
-Entramos en la pestaña de Wireless donde encontraremos toda la configuración del Wi-Fi.
+Para poder configurar el nombre del wi-fi o las opciones avanzadas nos tenemos que meter en la pestaña de wireless
 
 ![Opciones](./Imagenes/1.png)
 
