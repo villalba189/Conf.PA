@@ -11,7 +11,8 @@ Luego tendremos que poner el username y la contraseña que tambien encontraremos
 
 ## 2. Entramos en los ajustes de Wi-Fi
 
-Para poder configurar el nombre del wi-fi o las opciones avanzadas nos tenemos que meter en la pestaña de wireless
+Para poder configurar el nombre del wi-fi o las opciones avanzadas nos tenemos que meter 
+en la pestaña de wireless.
 
 ![Opciones](./Imagenes/1.png)
 
@@ -20,43 +21,50 @@ Para poder configurar el nombre del wi-fi o las opciones avanzadas nos tenemos q
 ![Basicas](./Imagenes/2.png)
 
 ![Nombre SSID](./Imagenes/0.1.png)
-La **SSID** es el nombre que veremos en los dispositivos para conectarnos.
-También existe la BSSID que sería la MAC que tiene el punto de acceso.
-(Le hemos puesto la SSID TP-Link_LaElite)
+La **SSID** es el nombre que veremos en los dispositivos para conectarnos,
+también existe la BSSID que sería la MAC que tiene el punto de acceso.
+(Yo le he puesto la SSID TP-Link_LaElite)
 
 ![Activar modo wi-fi](./Imagenes/0.2.png)
-Es para activar el modo wifi y comparta el internet. Lo Activamos
+Es lo que pondremos para activar el wireless y que haya conexion a internet
+atraves del wi-fi, sino solo podriamos conectarnos por cable.
 
 ![Ver SSID](./Imagenes/0.3.png)
-Sirve para que se vea el nombre (SSID) en los dispositivos. Lo Activamos
+Sirve para que se pueda ver el nombre (SSID) en los dispositivos sino 
+solo podriamos conectarnos buscando en el dispositivo con la Mac (BSSID)
 
 ## 4. Cambiar region
 
-Aquí es donde diremos en qué país nos encontramos, ponemos **Spain**.
+Aquí es donde diremos en qué país nos encontramos, ponemos **Spain** ya que
+es donde nos encontramos actualmente.
 
 ![Region Spain](./Imagenes/4.png)
 
-## 5. Canales EU
+## 5. Canales
 
-En España hay como máximo 13 canales como en la mayoria de paises de Europa , donde podemos colocar nuestro Wi-Fi, lo colocaremos en **Auto**, para que el solo encuentre el canal con menos interferencias.
+En España hay como máximo 13 canales como en la mayoria de paises. Estos canales
+sirven para poder tener menos interferencias con otros puntos de acceso, lo vamos 
+a poner en **Auto** ya que lo colocora en el canal con menos interferencias.
 
 ![Canales Europa](./Imagenes/5.png)
 
-## 6. Otros canales
-
-En United States hay como máximo **11** canales a diferencia EU.
+En United States hay como máximo **11** canales a diferencia de otros paises.
 
 ![Canales 11](./Imagenes/3.png)
 
-## 7. Banda Ancha
+Tambien existen 14 canales en Japon.
 
-Aquí elegiremos si ponerlo en 1 canal (20MHz) , en 2 (40 MHz) o en **automático (Auto)** que es el que elegiremos .
+## 6. Banda Ancha
+
+Aquí elegiremos si ponerlo en 1 canal (20MHz) que es mejor si hay muchos
+puntos de acceso cerca para no tener tantas interferencias, en 2 (40 MHz) que es
+para cuando no hay muchos cerca y que vaya mas rapido o en **automático (Auto)** 
+que elegira el mas adecuado para donde nos encontremos.
 
 ![Banda ancha automatica](./Imagenes/6.png)
 
-## 8. Estandares
+## 7. Estandares
 
-Elegiremos los estándares **11 bgn mixed**.
-Solo se podran entrar los dispositivos con esos mismos  estándares.
-
+Yo he puesto estos estandares porque son los mas adecuados para mi **11 bgn mixed**.
+Si quereis ver porque he elgido estos lo puedes ver 
 ![Estandard mixed](./Imagenes/7.png)
