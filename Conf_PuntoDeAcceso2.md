@@ -65,7 +65,8 @@ que elegira el mas adecuado para donde nos encontremos.
 
 ## 7. Estandares
 
-Yo he puesto estos estandares porque son los mas adecuados para mi.
+Yo he puesto estos estandares porque son los mas adecuados para mi, porque utilizo 
+los standares ***b***, ***g*** y ***n*** en mis dispositivos.
 
 Si quereis ver porque he elgido estos lo puedes ver [aqui](https://villalba189.github.io/Estandares/)
 
